@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487069070209",
+    "project_id": "sign-lingo-4a0d9",
+    "storage_bucket": "sign-lingo-4a0d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487069070209:android:9355594af3cc34f0b9ee80",
+        "android_client_info": {
+          "package_name": "com.example.signlingo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487069070209-1g5531hhrevumkn9qkh3mbfib12lhvtr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK7yTN05qqA0zVTO2slvVPVQ-EqDg6r4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487069070209-1g5531hhrevumkn9qkh3mbfib12lhvtr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

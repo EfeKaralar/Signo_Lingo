@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.course1.C1LearnFragment">
+    
+    <TextView
+        android:id="@+id/tvTitleAlphabet1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp"
+        android:text="Alphabet 1"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/ivAlphabet1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/screenshot__13_" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ivAlphabet1"
+        android:fontFamily="sans-serif-medium"
+        android:text="Above are the first 9 letters of the English Alphabet and the 9 numbers in American Sign Language (ASL). Study them and try to do the signs with your own hands. Once you are done, click on next to start the quesitons."
+        android:textSize="24sp" />
+
+</RelativeLayout>
